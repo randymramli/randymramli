@@ -28,5 +28,5 @@ Software Development, Data Science, AI and Machine Learning, Privacy & Security,
 - Othello
 - Steganography
 - SafeTravels
-[https://nba.inovagenetica.com/]('- NBA Salary Predictor')
+- [NBA Salary Predictor](https://nba.inovagenetica.com/)
 - Adversarial Attack on Brain Tumor Classification Model
