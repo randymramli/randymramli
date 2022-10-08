@@ -25,8 +25,8 @@ Software Development, Data Science, AI and Machine Learning, Privacy & Security,
 
 ## Projects
 
-- Othello
+- [Othello](https://github.com/randymramli/Othello)
 - Steganography
-- SafeTravels
+- [SafeTravels](https://github.com/randymramli/SafeTravels)
 - [NBA Salary Predictor](https://nba.inovagenetica.com/)
 - Adversarial Attack on Brain Tumor Classification Model
