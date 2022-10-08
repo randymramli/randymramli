@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Me
+# About Me 😃
 
 Computer Science student at Northeastern University, Seattle, looking for new grad opportunities.
 
 ## Interest
 
 Software Development, Data Science, AI and Machine Learning, Privacy & Security, and Politics.
+
+## Projects
+
+- Othello
+- Steganography
+- SafeTravels
+[https://nba.inovagenetica.com/]('- NBA Salary Predictor')
+- Adversarial Attack on Brain Tumor Classification Model
