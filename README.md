@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+
+Computer Science student at Northeastern University, Seattle, looking for new grad opportunities.
+
+## Interest
+
+Software Development, Data Science, AI and Machine Learning, Privacy & Security, and Politics.
