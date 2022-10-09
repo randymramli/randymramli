@@ -21,6 +21,8 @@ Computer Science student at Northeastern University, Seattle, looking for new gr
 
 [Personal Website](http://randy-web.s3-website-us-east-1.amazonaws.com/)
 
+[LinkedIn](https://www.linkedin.com/in/randy-ramli/)
+
 ## Interest
 
 Software Development, Data Science, AI and Machine Learning, Privacy & Security, and Politics.
@@ -28,7 +30,7 @@ Software Development, Data Science, AI and Machine Learning, Privacy & Security,
 ## Projects
 
 - [Othello](https://github.com/randymramli/Othello)
-- Steganography
+- [Steganography](https://github.com/randymramli/Steganography)
 - [SafeTravels](https://github.com/randymramli/SafeTravels)
 - [NBA Salary Predictor](https://nba.inovagenetica.com/)
 - Adversarial Attack on Brain Tumor Classification Model
