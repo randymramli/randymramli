@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 # About Me 😃
 
-Computer Science student at Northeastern University, Seattle, looking for new grad opportunities.
-
-[Personal Website](http://randy-web.s3-website-us-east-1.amazonaws.com/)
+Actively looking for a Software Engineering job.
 
 [LinkedIn](https://www.linkedin.com/in/randy-ramli/)
 
